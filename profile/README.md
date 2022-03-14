@@ -16,11 +16,5 @@ use that may be made of the information it contains.
 ![BMBF logo](https://raw.githubusercontent.com/cryptecs/.github/master/profile/bmbf-logo.png)
 ![ANR logo](https://raw.githubusercontent.com/cryptecs/.github/master/profile/anr-logo.png)
 
-## Getting Started
-
-For getting started with CRYPTECS or to learn how to engage with the CRYPTECS
-community head over to the CRYPTECS
-[umbrelly repository](https://github.com/cryptecs/cryptecs).
-
 [cryptecs-org]: https://github.com/cryptecs
 [cryptecs-website]: https://cryptecs.eu
